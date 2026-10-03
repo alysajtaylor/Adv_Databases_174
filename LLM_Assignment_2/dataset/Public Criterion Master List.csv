@@ -1,0 +1,78 @@
+SPINE,TITLE (Year),DIRECTOR,COUNTRY,4K Release?,IMDb Rating,Rotten Tomatoes,Brief Description,Count (Sort),YEAR
+1,Grand Illusion (1937),Jean Renoir,France,FALSE,8.1/10,96%,"During WWI, two French officers are captured and repeatedly attempt to escape, blurring the lines of class and nationality among soldiers.",1,1937
+2,Seven Samurai (1954),Akira Kurosawa,Japan,TRUE,8.6/10,100%,A poor village hires seven desperate but experienced samurai to protect them from a ruthless band of marauding bandits.,2,1954
+3,The Lady Vanishes (1938),Alfred Hitchcock,United Kingdom,FALSE,7.8/10,97%,A young socialite attempts to prove that an elderly woman she met on a train has mysteriously disappeared.,3,1938
+4,Amarcord (1973),Federico Fellini,Italy,FALSE,7.8/10,88%,"A colorful, nostalgic, and satirical portrait of life in an Italian seaside town during the fascist era of the 1930s.",4,1973
+5,The 400 Blows (1959),François Truffaut,France,TRUE,8.1/10,99%,A seminal French New Wave film chronicling the struggles and petty crimes of 14-year-old Antoine Doinel as he navigates his difficult home life.,5,1959
+6,Beauty and the Beast (1946),Jean Cocteau,France,FALSE,7.9/10,97%,"A gorgeous, fantastical adaptation of the classic fairy tale about a beautiful young woman who sacrifices herself to a beast living in an enchanted castle.",6,1946
+7,A Night to Remember (1958),Roy Ward Baker,United Kingdom,FALSE,7.8/10,100%,"A definitive dramatization of the Titanic disaster, focusing on the human drama and class distinctions during the ship's sinking.",7,1958
+8,The Killer (1989),John Woo,Hong Kong,FALSE,7.8/10,98%,"A conscience-stricken hitman takes one last job to help a singer he accidentally blinded, leading to a relentless pursuit by the police and the mob.",8,1989
+9,Hard Boiled (1992),John Woo,Hong Kong,FALSE,7.7/10,95%,A hard-nosed Hong Kong cop teams up with an undercover agent to bring down a powerful gun-smuggling triad.,9,1992
+10,Walkabout (1971),Nicolas Roeg,United Kingdom,TRUE,7.6/10,87%,"After their father commits suicide, two young siblings are stranded in the Australian outback and rescued by an Aboriginal boy on a walkabout.",10,1971
+11,The Seventh Seal (1957),Ingmar Bergman,Sweden,TRUE,8.1/10,94%,A knight returning from the Crusades challenges Death to a game of chess to save his life and find meaning in a plague-ravaged world.,11,1957
+12,This Is Spinal Tap (1984),Rob Reiner,United States,FALSE,7.9/10,95%,"A satirical ""mockumentary"" chronicling the absurd comeback tour of an aging, fictional British heavy metal band.",12,1984
+13,The Silence of the Lambs (1991),Jonathan Demme,United States,FALSE,8.6/10,96%,A young FBI cadet seeks the help of an incarcerated cannibal killer to catch a new serial murderer.,13,1991
+14,Samurai I: Musashi Miyamoto (1954),Hiroshi Inagaki,Japan,FALSE,7.6/10,N/A,The first film in a trilogy following the spiritual and physical transformation of the legendary sword master Musashi Miyamoto.,14,1954
+15,Samurai II: Duel at Ichijoji Temple (1955),Hiroshi Inagaki,Japan,FALSE,7.7/10,N/A,"The second installment, where Musashi Miyamoto hones his skills and faces new rivals in his quest for perfection.",15,1955
+16,Samurai III: Duel at Ganryu Island (1956),Hiroshi Inagaki,Japan,FALSE,7.7/10,N/A,"The conclusion of the trilogy, culminating in Musashi's final, legendary duel.",16,1956
+17,"Salò, or The 120 Days of Sodom (1976)",Pier Paolo Pasolini,Italy,FALSE,6.8/10,69%,"A controversial and explicit film set during WWII, where four wealthy men abduct teenagers and subject them to extreme torture and sexual degradation.",17,1976
+18,The Naked Kiss (1964),Samuel Fuller,United States,FALSE,7.5/10,93%,"A former prostitute attempts to start a new, honest life in a small town but uncovers the community's dark secrets.",18,1964
+51,Brazil (1985),Terry Gilliam,United Kingdom,TRUE,7.9/10,98%,A bureaucrat in a dystopian world tries to correct an administrative error and becomes an enemy of the state.,51,1985
+52,Yojimbo (1961),Akira Kurosawa,Japan,TRUE,8.2/10,97%,A masterless samurai enters a small town divided by two warring criminal gangs and pits them against each other for his own gain.,52,1961
+53,Sanjuro (1962),Akira Kurosawa,Japan,TRUE,8.0/10,100%,A quick-witted samurai comes to the aid of a group of nine young men who are battling a corrupt official.,53,1962
+54,For All Mankind (1989),Al Reinert,United States,TRUE,8.0/10,94%,A documentary chronicling the spectacular footage captured during NASA's Apollo missions to the Moon.,54,1989
+55,The Unbearable Lightness of Being (1988),Philip Kaufman,United States,FALSE,7.3/10,90%,An adaptation of Milan Kundera's novel about the tumultuous lives of an unfaithful surgeon and his wife during the Prague Spring.,55,1988
+56,The 39 Steps (1935),Alfred Hitchcock,United Kingdom,TRUE,7.6/10,95%,A man on the run attempts to prove his innocence after being falsely accused of murder and getting caught up in a spy ring.,56,1935
+57,Charade (1963),Stanley Donen,United States,FALSE,7.9/10,94%,A woman whose husband is murdered is pursued through Paris by three men who want a fortune her husband stole.,57,1963
+58,Peeping Tom (1960),Michael Powell,United Kingdom,TRUE,7.7/10,89%,A focus puller for a film studio is secretly a serial killer who murders women while filming their dying expressions.,58,1960
+59,The Night Porter (1974),Liliana Cavani,Italy,FALSE,6.9/10,66%,"Thirteen years after the war, a former SS officer and a Holocaust survivor rekindle their sadomasochistic relationship in a Vienna hotel.",59,1974
+60,Autumn Sonata (1978),Ingmar Bergman,Sweden,FALSE,7.9/10,89%,A famous concert pianist and her neglected daughter attempt to reconcile after years of estrangement.,60,1978
+61,Monty Python’s Life of Brian (1979),Terry Jones,United Kingdom,FALSE,8.0/10,96%,A young man named Brian is born next door to Jesus and is mistaken for the Messiah.,61,1979
+62,The Passion of Joan of Arc (1928),Carl Th. Dreyer,France,FALSE,8.1/10,98%,"A silent film masterpiece chronicling the trial, imprisonment, and execution of Joan of Arc.",62,1928
+63,Carnival of Souls (1962),Herk Harvey,United States,FALSE,7.0/10,85%,"A young woman survives a fatal car accident and is relentlessly followed by a ghoulish figure, drawing her toward an abandoned pavilion.",63,1962
+64,The Third Man (1949),Carol Reed,United Kingdom,FALSE,8.1/10,99%,"An American writer travels to postwar Vienna only to find that his friend, Harry Lime, has died under mysterious circumstances.",64,1949
+65,Rushmore (1998),Wes Anderson,United States,FALSE,7.6/10,89%,An eccentric 15-year-old student at a prep school befriends a wealthy industrialist and both fall for the same first-grade teacher.,65,1998
+66,The Orphic Trilogy (Box Set),Jean Cocteau,France,FALSE,N/A,N/A,"A box set collection of three surrealist films: The Blood of a Poet (1930), Orpheus (1950), and Testament of Orpheus (1960).",66,#N/A
+67,The Blood of a Poet (1930),Jean Cocteau,France,FALSE,7.3/10,83%,Jean Cocteau's dreamlike and surrealistic debut exploring the artist's tormented imagination.,67,1930
+68,Orpheus (1950),Jean Cocteau,France,FALSE,7.9/10,98%,"The Orpheus myth is retold in modern-day Paris, where a famous poet falls in love with Death, personified as a glamorous princess.",68,1950
+69,Testament of Orpheus (1959),Jean Cocteau,France,FALSE,7.2/10,79%,"Cocteau’s final film, in which the poet-director travels through time and encounters figures from his past work.",69,1959
+70,The Last Temptation of Christ (1988),Martin Scorsese,United States,FALSE,7.6/10,81%,"A controversial depiction of Jesus Christ, who struggles with doubt, fear, and human temptation during his life.",70,1988
+71,The Magic Flute (1975),Ingmar Bergman,Sweden,FALSE,7.8/10,93%,Bergman’s lavish and joyful film adaptation of Mozart's famous opera.,71,1975
+72,Le million (1931),René Clair,France,FALSE,7.5/10,93%,A frantic musical comedy about an impoverished artist who wins the lottery but discovers his winning ticket is stuck in the pocket of a coat.,72,1931
+73,Cléo from 5 to 7 (1962),Agnès Varda,France,FALSE,8.0/10,97%,A French New Wave film following a pop singer for two hours in real-time as she anxiously awaits the results of a biopsy.,73,1962
+74,Vagabond (1985),Agnès Varda,France,FALSE,7.7/10,100%,"A chilling drama following the final weeks in the life of a young, defiant female vagrant who rejects society.",74,1985
+75,Chasing Amy (1997),Kevin Smith,United States,FALSE,7.2/10,87%,"A comic book writer falls in love with a fellow artist, only to discover she is a lesbian, complicating his view of love and sexuality.",75,1997
+76,Brief Encountar (1945),David Lean,United Kingdom,FALSE,8.0/10,91%,"A married, middle-class woman and a doctor meet by chance at a railway station and begin a quiet but profound affair.",76,1945
+77,And God Created Woman (1956),Roger Vadim,France,FALSE,6.3/10,50%,Brigitte Bardot's breakthrough role as an orphan whose sexual appeal causes chaos among the men in a small French town.,77,1956
+78,The Bank Dick (1940),Edward Cline,United States,FALSE,7.6/10,90%,"A man accidentally foils a bank robbery and is rewarded with the job of bank guard (or ""bank dick"").",78,1940
+79,W. C. Fields—Six Short Films (1933–1937),Various,United States,FALSE,7.7/10,N/A,A collection of W. C. Fields's hilarious and influential short films.,79,#N/A
+80,The Element of Crime (1984),Lars von Trier,Denmark,FALSE,6.8/10,78%,"A detective returns to Europe to hunt a serial killer and must use hypnotism to investigate the case, immersing himself in the killer's mind.",80,1984
+81,Variety Lights (1950),"Federico Fellini, Alberto Lattuada",Italy,FALSE,7.4/10,83%,Fellini's feature debut about a theatrical troupe touring small Italian towns and the conflicts that arise between ambition and love.,81,1950
+82,Hamlet (1948),Laurence Olivier,United Kingdom,FALSE,7.7/10,96%,Laurence Olivier's adaptation of Shakespeare's tragedy about the Prince of Denmark seeking revenge for his father's murder.,82,1948
+83,The Harder They Come (1972),Perry Henzell,United States,FALSE,7.3/10,89%,A young man comes to Kingston hoping to be a reggae singer but is exploited by the music industry and turns to a life of crime.,83,1972
+84,Good Morning (1959),Yasujiro Ozu,Japan,FALSE,7.9/10,97%,Two young brothers take a vow of silence to protest their parents' refusal to buy a television.,84,1959
+85,Pygmalion (1938),"Anthony Asquith, Leslie Howard",United Kingdom,FALSE,7.8/10,97%,A linguistics professor attempts to transform a Cockney flower seller into a refined lady.,85,1938
+86,Eisenstein: The Sound Years (Box Set),Sergei Eisenstein,Soviet Union,FALSE,N/A,N/A,"A box set including three historical epics: Alexander Nevsky (1938), Ivan the Terrible, Part I (1944), and Ivan the Terrible, Part II (1958).",86,#N/A
+87,Alexander Nevsky (1938),Sergei Eisenstein,Soviet Union,FALSE,7.5/10,94%,A historical epic depicting the 13th-century battle against the invading Teutonic Knights.,87,1938
+88,"Ivan the Terrible, Part I (1944)",Sergei Eisenstein,Soviet Union,FALSE,7.7/10,96%,"The first installment of Eisenstein's epic biography of Tsar Ivan IV, chronicling his rise to power.",88,1944
+88,"Ivan the Terrible, Part II (1958)",Sergei Eisenstein,Soviet Union,FALSE,7.9/10,100%,"The second half of Eisenstein's epic biography of Tsar Ivan IV, completed after his death.",89,1958
+89,Sisters (1973),Brian De Palma,United States,FALSE,6.8/10,78%,"A reporter witnesses a murder in a neighboring apartment and attempts to expose the killer, who is a separated conjoined twin.",90,1973
+90,Kwaidan (1965),Masaki Kobayashi,Japan,FALSE,7.9/10,91%,A magnificent anthology of four traditional Japanese ghost stories.,91,1965
+91,The Blob (1958),Irvin S. Yeaworth Jr.,United States,FALSE,6.3/10,66%,A small town is terrorized by an extraterrestrial lifeform that consumes everything in its path and grows larger.,92,1958
+92,Fiend Without a Face (1958),Arthur Crabtree,United Kingdom,FALSE,6.1/10,86%,"A military base in Canada is attacked by invisible, man-eating creatures.",93,1958
+93,Black Narcissus (1947),"Michael Powell, Emeric Pressburger",United Kingdom,TRUE,8.0/10,97%,"Nuns establish a remote convent in the Himalayan mountains, where the high altitude and isolation begin to affect their sanity and faith.",94,1947
+94,I Know Where I’m Going! (1945),"Michael Powell, Emeric Pressburger",United Kingdom,FALSE,7.6/10,100%,"A young woman travels to a remote Scottish island to marry a wealthy lord, but she is stranded by a storm and falls in love with a naval officer.",95,1945
+95,All That Heaven Allows (1955),Douglas Sirk,United States,FALSE,7.7/10,90%,"A wealthy widow in a small town falls in love with a younger, working-class gardener, leading to social condemnation.",96,1955
+96,Written on the Wind (1956),Douglas Sirk,United States,FALSE,7.5/10,91%,A melodramatic tale of the self-destructive lives of two oil-rich siblings and the unhappy marriage of their friend.,97,1956
+97,Do the Right Thing (1989),Spike Lee,United States,FALSE,7.9/10,90%,Racial tensions escalate between residents and the Italian American owners of a pizzeria on the hottest day of the year in Brooklyn.,98,1989
+98,L’avventura (1960),Michelangelo Antonioni,Italy,FALSE,7.9/10,93%,"A group of wealthy friends search for a young woman who disappeared during a yachting trip, though the mystery fades as their relationships deepen.",99,1960
+99,Gimme Shelter (1970),"Albert Maysles, David Maysles, and Charlotte Zwerin",United States,FALSE,7.9/10,93%,"A documentary chronicling The Rolling Stones' 1969 U.S. tour, culminating in the violent and tragic Altamont Free Concert.",100,1970
+100,Beastie Boys Video Anthology (2000),Various,United States,FALSE,7.8/10,N/A,A compilation of the innovative and often comical music videos released by the hip-hop group Beastie Boys.,101,2000
+101,Cries and Whispers (1972),Ingmar Bergman,Sweden,FALSE,8.0/10,93%,"Two sisters watch over their third sister who is dying of cancer, as their inner lives and past resentments surface.",102,1972
+102,The Discreet Charm of the Bourgeoisie (1972),Luis Buñuel,France,FALSE,7.9/10,97%,A series of absurd and bizarre events prevents a group of wealthy friends from ever sitting down to eat a meal together.,103,1972
+103,The Lady Eve (1941),Preston Sturges,United States,FALSE,7.7/10,100%,A rich but naive snake expert is conned by a beautiful card shark on a cruise ship.,104,1941
+591,12 Angry Men (1957),Sidney Lumet,United States,FALSE,8.9/10,100%,A jury of 12 men must deliberate the case of a young man accused of murdering his father.,591,1957
+592,Design for Living (1933),Ernst Lubitsch,United States,FALSE,7.7/10,76%,"Two male artists fall in love with the same woman, deciding to live together in a platonic arrangement.",592,1933
+593,Belle de jour (1967),Luis Buñuel,France,FALSE,7.7/10,95%,"A bored, sexually repressed housewife spends her afternoons secretly working at a high-class brothel.",593,1967
+594,Godzilla (1954),Ishiro Honda,Japan,TRUE,7.5/10,93%,"An ancient monster, awakened by nuclear testing, attacks Tokyo.",594,1954
+595,The Moment of Truth (1965),Francesco Rosi,Italy,FALSE,7.4/10,80%,A docudrama chronicling the life of a young man who leaves his impoverished farming life to become a star bullfighter.,595,1965
